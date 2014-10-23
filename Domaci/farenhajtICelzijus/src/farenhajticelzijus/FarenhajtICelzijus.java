@@ -56,7 +56,7 @@ public class FarenhajtICelzijus {
         
         else 
         {
-            System.out.print("Vrednost nije podrzana. Molimo vas da unesete 1,2 ili 3!");
+            System.out.println("Vrednost nije podrzana. Molimo vas da unesete 1,2 ili 3!");
         }
             
             
