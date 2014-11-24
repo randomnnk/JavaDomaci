@@ -9,7 +9,6 @@ package simulacijadvekockeiprosekzbira;
  *
  * @author Ivke
  */
-import java.util.*;
 public class SimulacijaDveKockeIProsekZbira {
 
     /**

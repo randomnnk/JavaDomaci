@@ -18,6 +18,7 @@ public class SrednjaVernostUnapredZadatogNiza {
         
         System.out.println("Srednja vrednost niza je : ");
         System.out.println(prosek(3,5,8,19,-5,45,-25,16));
+        
     }
     
     public static double prosek(double ... brojevi){
