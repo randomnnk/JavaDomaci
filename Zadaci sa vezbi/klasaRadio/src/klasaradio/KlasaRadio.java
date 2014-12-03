@@ -49,5 +49,4 @@ package klasaradio;
         trenutna_radio_stanica = r.vratiTrenutnuStanicu();
         System.out.println("Trenutna radio stanica je : "+trenutna_radio_stanica);
     }
-    
 }
