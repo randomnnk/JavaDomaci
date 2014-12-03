@@ -1,36 +1,35 @@
 package klasaradio;
 
-class Radio {
-
-    boolean ukljucen = false;
-    int trenutnaStanica = 0;
-    
-    void promeniStanicuNavise() {
-        trenutnaStanica = trenutnaStanica + 1;
-    }
-    
-    void promeniStanicuNanize() {
-        trenutnaStanica = trenutnaStanica - 1;
-    }
-    int vratiTrenutnuStanicu() {
-        return trenutnaStanica;
-    }
-    
-    void ukljuci() {
-        ukljucen = true;   
-    }
-    
-    void iskljuci() {
-        ukljucen = false;
-    }
-    
-    boolean daLiJeUkljucen() {
-        return ukljucen;
-    }
-    
-    void ispisi(){
-        System.out.println("Trenutna radio stanica je : "+trenutnaStanica);
-        System.out.println("Radio je ukljucen : "+ukljucen);
+    class Radio {
+        boolean ukljucen = false;
+        int trenutnaStanica = 0;
+        
+        void promeniStanicuNavise() {
+            trenutnaStanica = trenutnaStanica + 1;
+        }
+        
+        void promeniStanicuNanize() {
+            trenutnaStanica = trenutnaStanica - 1;
+        }
+        int vratiTrenutnuStanicu() {
+            return trenutnaStanica;
+        }
+        
+        void ukljuci() {
+            ukljucen = true;   
+        }
+        
+        void iskljuci() {
+            ukljucen = false;
+        }
+        
+        boolean daLiJeUkljucen() {
+            return ukljucen;
+        }
+        
+        void ispisi(){
+            System.out.println("Trenutna radio stanica je : "+trenutnaStanica);
+            System.out.println("Radio je ukljucen : "+ukljucen);
     }
 }
 
