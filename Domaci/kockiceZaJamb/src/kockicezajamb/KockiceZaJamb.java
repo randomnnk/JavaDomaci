@@ -51,9 +51,3 @@ public class KockiceZaJamb {
         return set;
 }
 }
-
-
-
-    
-   
-
