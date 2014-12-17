@@ -1,2 +1,0 @@
-klasakalkulator.Kalkulator
-klasakalkulator.KlasaKalkulator
