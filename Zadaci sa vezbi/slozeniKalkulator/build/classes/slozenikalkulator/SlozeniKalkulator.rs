@@ -1,0 +1,1 @@
+slozenikalkulator.testSlozeniKalkulator

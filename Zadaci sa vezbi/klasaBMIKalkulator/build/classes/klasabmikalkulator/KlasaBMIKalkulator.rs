@@ -1,0 +1,2 @@
+klasabmikalkulator.BMIKalkulator
+klasabmikalkulator.KlasaBMIKalkulator
